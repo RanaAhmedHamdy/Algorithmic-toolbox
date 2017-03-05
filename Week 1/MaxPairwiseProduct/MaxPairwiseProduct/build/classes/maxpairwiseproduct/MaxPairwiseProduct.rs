@@ -1,0 +1,2 @@
+MaxPairwiseProduct
+MaxPairwiseProduct$FastScanner
